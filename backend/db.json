@@ -1,0 +1,7 @@
+{
+  "products": [
+    {"id":  1, "name":  "Blue Pen", "price":  5.87},
+    {"id":  2, "name":  "Macbook pro", "price":  5864.87},
+    {"id":  2, "name":  "Laptop Samsung", "price":  2345.87}
+  ]
+}
